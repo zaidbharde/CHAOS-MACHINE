@@ -58,7 +58,7 @@ def ansi_bg(r, g, b):
 RESET = '\033[0m'
 
 # ─────────────────────────────────────────────────────────────
-# 1. MANDELBROT SET (ASCII)
+# 1. MANDELBROT SET (ASCII).
 # ─────────────────────────────────────────────────────────────
 
 def mandelbrot(width=120, height=40, max_iter=50,
